@@ -1,0 +1,6 @@
+snscrape --jsonl --max-results 3000 twitter-user LudwigAhgren >ludwig-3000.txt
+snscrape --jsonl --max-results 3000 twitter-user Sykkuno >Sykkuno-3000.txt
+snscrape --jsonl --max-results 3000 twitter-user Valkyrae >Valkyrae-3000.txt
+snscrape --jsonl --max-results 3000 twitter-user moistcr1tikal >cr1tikal-3000.txt
+snscrape --jsonl --max-results 3000 twitter-user LilyPichu >Lily-3000.txt
+snscrape --jsonl --max-results 3000 twitter-user pokimanelol >Pokimane-3000.txt
